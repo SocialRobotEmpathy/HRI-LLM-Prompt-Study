@@ -16,12 +16,13 @@ The final prompt is dynamically generated based on the following components:
 
 Below is an example of the structured prompt used:
 
-```plaintext
+
 Hello, [Resident’s Name]! It's great to see you. How have you been feeling today?
 
 I understand that things might be challenging sometimes, but I'm here to listen. You mentioned last time that you enjoy [hobby or activity], which sounds wonderful! Have you been able to spend any time doing that recently?
 
-I’d love to hear more about what makes it special to you, if you feel like sharing.´´´
+I’d love to hear more about what makes it special to you, if you feel like sharing.
+
 ---
 
 ## Customization Details
