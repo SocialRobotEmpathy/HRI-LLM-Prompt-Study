@@ -1,11 +1,11 @@
-# main_eleven_labs.py
+# main.py
 
 from pepper.pepper_connection import PepperConnection
 from user.background_knowledge import UserInfo
 from pepper.prompt_manager import PromptManager
 from pepper.dialog import OngoingDialogManager
 from pepper.stt import SpeechToText
-from curando.pepper.llm_eleven_labs import LargeLanguageModel
+from elderly_care_home.pepper.llm import LargeLanguageModel
 import threading as th
 
 conversation_going = True

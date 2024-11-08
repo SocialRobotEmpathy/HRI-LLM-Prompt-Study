@@ -12,7 +12,9 @@ This repository provides supplementary materials for a study on using LLMs to fa
 
 ## Repository Contents
 
-- `prompts/`: Contains example prompts and an overview of the prompt engineering approach.
+- `prompts/`: Contains files detailing the prompt engineering approach.
+  - **[prompt_design.md](prompts/prompt_design.md)**: Overview of prompt customization and design strategy.
+  - **[prompt_examples.md](prompts/prompt_examples.md)**: Sample prompts used for empathy, personalization, and continuity.
 - `src/`: Sample code files for the LLM setup and processing.
 - `config/`: Configuration details and requirements for setting up the LLM.
 - `results/`: Anonymized sample outputs to illustrate LLM responses in the study.
