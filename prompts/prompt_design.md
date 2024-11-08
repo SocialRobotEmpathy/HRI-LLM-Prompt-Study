@@ -40,9 +40,7 @@ Prompts are dynamically adjusted based on cues from the resident’s current emo
    - **Supportive Responses**: When a resident shares something challenging (e.g., frustration or nostalgia), the prompts include empathetic phrases that acknowledge their emotions and encourage them to share more.
    - **Positive Reinforcement**: When a resident talks about hobbies or happy memories, prompts focus on reinforcing these positive feelings to foster connection and engagement.
 
-## Example of a Finalized Prompt Structure
-
-A typical prompt includes:
+## Example Output
 
 - **Greeting and Name Reference**: "Hello, [Resident’s Name]! How have you been feeling today?"
 - **Empathy Expression**: "I understand that might have been difficult."
@@ -52,4 +50,4 @@ A typical prompt includes:
 
 ## Conclusion
 
-The evolution of the prompt design was heavily influenced by Study 1, which provided essential feedback that helped refine Pepper’s conversational approach. These adjustments—avoiding loops, asking single questions, deepening conversation topics, and making Pepper more personable—enhanced the overall interaction quality, fostering more natural and engaging exchanges with residents.
+The evolution of the prompt design was heavily influenced by Study 1, which provided essential feedback that helped refine our system’s conversational approach. These adjustments—avoiding loops, asking single questions, deepening conversation topics, and making Pepper more personable—enhanced the overall interaction quality, fostering more natural and engaging exchanges with residents.
