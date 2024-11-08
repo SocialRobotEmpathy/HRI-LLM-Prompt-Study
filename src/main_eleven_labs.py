@@ -1,4 +1,4 @@
-# main.py
+# main_eleven_labs.py
 
 from pepper.pepper_connection import PepperConnection
 from user.background_knowledge import UserInfo
