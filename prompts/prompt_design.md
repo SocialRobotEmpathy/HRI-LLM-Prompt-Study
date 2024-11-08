@@ -40,9 +40,7 @@ Prompts are dynamically adjusted based on cues from the resident’s current emo
    - **Supportive Responses**: When a resident shares something challenging (e.g., frustration or nostalgia), the prompts include empathetic phrases that acknowledge their emotions and encourage them to share more.
    - **Positive Reinforcement**: When a resident talks about hobbies or happy memories, prompts focus on reinforcing these positive feelings to foster connection and engagement.
 
-## Example of a Finalized Prompt Structure
-
-Example output:
+## Example Output
 
 - **Greeting and Name Reference**: "Hello, [Resident’s Name]! How have you been feeling today?"
 - **Empathy Expression**: "I understand that might have been difficult."
