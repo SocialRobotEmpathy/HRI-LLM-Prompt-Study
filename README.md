@@ -20,9 +20,3 @@ This repository provides supplementary materials for a study on using LLMs to fa
 ## Instructions for Reviewers
 
 Reviewers can explore each folder to understand the prompt design and configuration used in our study. The `prompts/prompt_design.md` file provides the rationale behind prompt customization, while `src/` contains code illustrating how the prompts were integrated into the LLM for autonomous interaction.
-
-
-## Instructions for Reviewers
-
-Reviewers can explore each folder to understand the prompt design and configuration used in our study. The `prompts/prompt_design.md` file provides the rationale behind prompt customization, while `src/` contains code illustrating how the prompts were integrated into the LLM for autonomous interaction.
-
