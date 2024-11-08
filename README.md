@@ -15,7 +15,10 @@ This repository provides supplementary materials for a study on using LLMs to fa
 - `prompts/`: Contains files detailing the prompt engineering approach.
   - **[prompt_design.md](prompts/prompt_design.md)**: Overview of prompt customization and design strategy.
   - **[prompt_examples.md](prompts/prompt_examples.md)**: Sample prompts used for empathy, personalization, and continuity.
-- `src/`: Sample code files for the LLM setup and processing.
+  - **[final_prompt_structure.md](prompts/final_prompt_structure.md)** : Details the final prompt structure used in the study 2.
+- `src/`: Contains the primary code files for setting up the LLM-powered interactions.
+  - **`prompt_manager.py`**: Generates and sends the final prompt to the LLM based on each resident’s background information, previous interactions, and current emotional cues.
+  - Other files in this folder demonstrate how the prompts were processed and integrated with the LLM to enable autonomous, personalized conversations.
 - `config/`: Configuration details and requirements for setting up the LLM.
 - `results/`: Anonymized sample outputs to illustrate LLM responses in the study.
 
